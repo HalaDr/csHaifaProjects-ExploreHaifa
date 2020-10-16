@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "764041609308",
+    "firebase_url": "https://explorehaifa.firebaseio.com",
+    "project_id": "explorehaifa",
+    "storage_bucket": "explorehaifa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764041609308:android:1e3e498fd79c24dac2a699",
+        "android_client_info": {
+          "package_name": "com.project.explorehaifa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "764041609308-pr67735sf8kbgbnpr3djbn3m8pvau5s7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.project.explorehaifa",
+            "certificate_hash": "d9a3eb1c84c9f0fcca97e2b72802d62b15892687"
+          }
+        },
+        {
+          "client_id": "764041609308-3dmgqp84d6bhfm779j1kiolggv1kklbb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhsThMiXWAqQCUDnfcXrnwlDZB8hJNAek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "764041609308-3dmgqp84d6bhfm779j1kiolggv1kklbb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
